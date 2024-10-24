@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Express.js MongoDB**
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/ivrah/OneDrive/Desktop/My%20Portfolio.html](file:///C:/Users/ivrah/OneDrive/Desktop/My%20Portfolio.html)
-
 - 📫 How to reach me **viragava@gitam.in**
 
 <h3 align="left">Connect with me:</h3>
