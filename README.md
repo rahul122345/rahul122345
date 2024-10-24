@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm I V Rahul</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul122345&label=Profile%20views&color=0e75b6&style=flat" alt="rahul122345" /> </p>
 
